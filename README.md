@@ -27,9 +27,9 @@ This a plugin for Erela.JS to allow the use of TIDAL URL's, it uses direct URL's
 
 It is recommended to read the documentation to start, and the guides to use the plugin.
 
-- [Documentation](https://solaris.codes/projects/erelajs/docs/gettingstarted.html#getting-started 'Erela.js Documentation') 
+- [Documentation](https://erelajs-docs.netlify.app/docs/gettingstarted.html 'Erela.js Documentation') 
 
-- [Guides](https://solaris.codes/projects/erelajs/guides/introduction.html 'Erela.js Guides')
+- [Guides](https://erelajs-docs.netlify.app/guides/introduction.html 'Erela.js Guides')
 
 ## Installation
 
