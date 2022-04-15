@@ -1,6 +1,6 @@
 {
   "name": "erela.js-tidal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "typings": "./typings",
   "author": "wearifulcupid0",
@@ -21,8 +21,8 @@
   ],
   "scripts": {
     "dev": "tsc && node test/test.js",
-		"build": "tsc",
-		"start": "node dist/index.js"
+    "build": "tsc",
+    "start": "node dist/index.js"
   },
   "dependencies": {
     "axios": "^0.26.1",
