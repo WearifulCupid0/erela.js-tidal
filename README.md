@@ -44,14 +44,14 @@ yarn add erela.js-tidal
 ```
 
 ## Options
+- ### countryCode
+> An ISO 3166-1 alpha-2 country code. \
+> **Default: US**
+
 - ### convertUnresolved
 > Converts all UnresolvedTracks into a Track. \
 > **NOTE: THIS IS NOT RECOMMENDED AS IT WILL ATTEMPT TO CONVERT EVERY TRACK, INCLUDING ALBUMS AND PLAYLISTS TRACKS.** \
 > **DEPENDING ON THE AMOUNT THIS WILL TAKE A WHILE AND MAY RATELIMIT YOUR LAVALINK NODE.**
-
-- ### countryCode
-> An ISO 3166-1 alpha-2 country code. \
-> **Default: US**
 
 ## Example Usage
 
